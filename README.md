@@ -1,4 +1,4 @@
-<img src='https://media.giphy.com/media/QBA3TWKC2BKs0E99Fn/giphy.gif' alt='aladdin_ghost'>
+<img src='https://media.giphy.com/media/QBA3TWKC2BKs0E99Fn/giphy.gif' alt='aladdin_ghost' height=50px width=50px>
 
 - 👋 Hi, I’m @Gomatheeswaran
 - 👀 I’m interested in ... coding
