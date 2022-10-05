@@ -1,3 +1,5 @@
+<img src='https://media.giphy.com/media/QBA3TWKC2BKs0E99Fn/giphy.gif' alt='aladdin_ghost'>
+
 - 👋 Hi, I’m @Gomatheeswaran
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... web developing
